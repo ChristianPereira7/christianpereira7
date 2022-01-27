@@ -1,6 +1,6 @@
 ### 
 
-- 🔭 JavaScript com os frameworks: React e Next.
+- 🔭 Estudando JavaScript com os frameworks: React e Next.
 
 
 <div align="center">

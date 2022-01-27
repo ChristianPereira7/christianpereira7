@@ -1,7 +1,8 @@
 ### 
 
-- 🔭 Estudando JavaScript com os frameworks: React e Next.
+- Experiência em tecnologia e desenvolvimento, atualmente faço trabalhos como freelancer na área de desenvolvimento. Sou formado em Análise e Desenvolvimento de Sistemas.
 
+##
 
 <div align="center">
   <a href="https://github.com/ChristianPereira7">
